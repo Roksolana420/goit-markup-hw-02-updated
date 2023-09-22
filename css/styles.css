@@ -36,6 +36,9 @@ font-weight: 500;
 line-height: 1.5; 
 letter-spacing: 0.02em;
 }
+.header-menu-link.first-link{
+    color:#2e2f42;
+}
 .header-menu-link {
 color: #434455;
 font-size: 16px;
@@ -44,17 +47,24 @@ line-height: 1.5;
 letter-spacing: 0.02em;
 text-decoration: none;
 }
-.header-menu-link:hover
-.header-menu-link:focus{
+.header-menu-link.first-link:hover,
+.header-menu-link.first-link:focus{
     color: #404bbf;
 }
-.mail{
-    text-decoration: none;
+address{
+    font-style: normal;
 }
-.tel {
+.contact-link{
+    color:#434455;
     text-decoration: none;
+    font-size: 16px;
+    line-height: 1.5; 
+    letter-spacing: 0.02em;
 }
-
+.contact-link:hover,
+.contact-link:focus{
+    color: #404bbf;
+}
 .hero {
     background:  #2E2F42; 
 }
