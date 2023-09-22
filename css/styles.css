@@ -1,6 +1,7 @@
 body {
     font-family:'Roboto', sans-serif;
-    color: var(--NAVY-BLUE, #2E2F42);
+    color:   #434455;
+    background: #FFF;
 }
 .header {
 }
@@ -155,10 +156,6 @@ color:  #434455;
 font-size: 16px;
 line-height: 1.5; 
 letter-spacing: 0.02em;
-}
-.portfolio-img {
-    width: 360px;
-    height: 300px;
 }
 .footer {
     background:  #2E2F42;
