@@ -112,6 +112,7 @@ line-height: 1.5;
 letter-spacing: 0.02em;
 }
 .our-team {
+    background-color: #F4F4FD;
 }
 .team-title {
     color:  #2E2F42;
@@ -126,6 +127,7 @@ text-transform: capitalize;
 }
 .team-item {
 list-style: none;
+background-color: #FFFFFF;
 }
 .team-subtitle {
     color:  #2E2F42;
