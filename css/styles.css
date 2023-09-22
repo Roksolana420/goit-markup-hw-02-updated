@@ -36,19 +36,16 @@ font-weight: 500;
 line-height: 1.5; 
 letter-spacing: 0.02em;
 }
-.header-menu-link.first-link{
-    color:#2e2f42;
-}
 .header-menu-link {
-color: #434455;
+    color:#2e2f42;
 font-size: 16px;
 font-weight: 500;
 line-height: 1.5; 
 letter-spacing: 0.02em;
 text-decoration: none;
 }
-.header-menu-link.first-link:hover,
-.header-menu-link.first-link:focus{
+.header-menu-link:hover,
+.header-menu-link:focus{
     color: #404bbf;
 }
 address{
