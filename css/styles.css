@@ -178,22 +178,22 @@ letter-spacing: 0.02em;
 }
 .footer-logo {
 color:  #4D5AE5;
-font-family: Raleway;
+font-family: "Raleway", sans-serif;
 font-size: 18px;
 font-style: normal;
 font-weight: 700;
-line-height: 1.16; 
+line-height: 1.17; 
 letter-spacing: 0.03em;
 text-transform: uppercase;
 text-decoration: none;
 }
 .footer-logo-color {
 color:  #F4F4FD;
-font-family: Raleway;
+font-family: "Raleway", sans-serif;
 font-size: 18px;
 font-style: normal;
 font-weight: 700;
-line-height: 1.16; 
+line-height: 1.17; 
 letter-spacing: 0.03em;
 text-transform: uppercase;
 }
