@@ -51,6 +51,9 @@ text-decoration: none;
 .header-address{
     font-style: normal;
 }
+.header-menu-list {
+    list-style: none;
+}
 .contact-link{
     color:#434455;
     text-decoration: none;
